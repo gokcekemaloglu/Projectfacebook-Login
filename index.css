@@ -23,12 +23,12 @@ body{
 }
 
 .form-group{
-    box-shadow: 5px 5px 5px dimgray;
+    box-shadow: 5px 5px 5px rgba(105, 105, 105, 0.671);
     background-color: white;
     border-radius: 10px;
     /* border: 3px solid pink; */
     width: 300px;
-    height: 270px;
+    height: 260px;
     padding: 5px;    
 }
 
@@ -62,10 +62,12 @@ body{
     background-color: #42B72A;
     /* border: 3px solid blue; */
     padding: 10px;
-    margin: 10px;
+    margin: 10px auto;
     border: 2px solid #42B72A;
     border-radius: 5px;
     color: white;
+    width: 50%;
+    display: block;
 }
 #title{
     font-size: 48px;
