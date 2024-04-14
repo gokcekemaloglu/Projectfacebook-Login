@@ -42,12 +42,17 @@ body{
     border-radius: 10px;
     align-items: center;
     width: 250px;
-
 }
 
-#unut{
+#submit{
+    background-color: rgb(0, 119, 255);
+    color: white;
+    font-size: larger ;
+}
+.unut{
     text-align: center;
     text-decoration-style: none;
+
 }
 
 #yenihesap{
